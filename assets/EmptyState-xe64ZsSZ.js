@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-C-ls-p-s.js";var t=e();function n({icon:e,title:n,children:r}){return(0,t.jsxs)(`div`,{className:`empty`,children:[(0,t.jsx)(`span`,{className:`icon-tile`,children:e}),(0,t.jsx)(`strong`,{children:n}),r]})}export{n as t};

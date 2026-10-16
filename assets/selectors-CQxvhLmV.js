@@ -1,0 +1,1 @@
+import{o as e}from"./interpretation-biV22lD7.js";var t=e=>e.status===`concluida`&&!!e.results;function n(e){let n=new Map;for(let r of e)t(r)&&!n.has(r.plotId)&&n.set(r.plotId,r);return n}function r(e,n){return e.filter(e=>e.plotId===n&&t(e)).reverse()}function i(t){let n=0,r=0;for(let i of t)n+=e(i.results),r++;return r?Math.round(n/r):null}export{n,r,i as t};

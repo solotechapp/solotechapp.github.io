@@ -1,0 +1,1 @@
+import{n as e,t}from"./jsx-runtime-C-ls-p-s.js";var n=t();function r({tone:t,children:r,dot:i}){return(0,n.jsxs)(`span`,{className:e(`badge`,t&&`tone-${t}`),children:[i&&(0,n.jsx)(`span`,{className:`dot`}),r]})}export{r as t};

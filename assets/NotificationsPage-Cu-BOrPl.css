@@ -1,0 +1,1 @@
+.notifications{max-width:820px}.notification{align-items:flex-start}.notification .list-item__body{gap:2px;display:grid}.notification[data-unread=false] .notification__title{color:var(--text-2);font-weight:500}.notification__body{color:var(--text-2);font-size:14px}.notification__dot{background:var(--leaf);border-radius:50%;flex:none;width:10px;height:10px;margin-top:6px}

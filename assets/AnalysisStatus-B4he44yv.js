@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-C-ls-p-s.js";import{t}from"./Badge-Dke8ca7_.js";var n=e(),r={aguardando:{label:`Aguardando laudo`,tone:`atencao`},processando:{label:`Em processamento`,tone:`excesso`},concluida:{label:`Concluída`,tone:`bom`}};function i({status:e}){let i=r[e];return(0,n.jsx)(t,{tone:i.tone,dot:!0,children:i.label})}export{i as t};
